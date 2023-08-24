@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilyakokotkin
 
-- 🌱 I’m currently learning Full Stack (HTML, CSS, JavaScript, Python, SQL)
+- 🌱 I’m currently learning Full Stack (HTML/CSS, JavaScript, Python, SQL)
 
 - 💞️ I’m looking to collaborate on all types of projects
 
