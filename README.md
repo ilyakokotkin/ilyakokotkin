@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ilyakokotkin
 
-- 🌱 I’m currently learning Full Stack (HTML/CSS, JavaScript, Python, SQL)
+- 🌱 I’m currently developing Full Stack web apps (ReactJS, NodeJS, Python, MongoDB)
 
 - 💞️ I’m looking to collaborate on all types of projects
 
-- 📫 How to reach me: ilya.kokotkin@outlook.com
+- 📫 You can reach me on ilya.kokotkin@outlook.com 
 
 <!---
 ilyakokotkin/ilyakokotkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
