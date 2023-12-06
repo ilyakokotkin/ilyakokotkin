@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilyakokotkin
 
-- 🌱 I’m currently developing Full Stack web apps (ReactJS, NodeJS, Python, MongoDB)
+- 🌱 I’m currently learning full stack development (with extra random bits & bobs here and there)
 
 - 💞️ I’m looking to collaborate on all types of projects
 
