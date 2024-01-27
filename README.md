@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @ilyakokotkin
 
-- 🌱 I’m currently learning full stack development with JavaScript and Python
-
-- 💞️ I’m looking to collaborate on web projects
-
 - 📫 You can reach me on ilya.kokotkin@outlook.com 
 
 <!---
