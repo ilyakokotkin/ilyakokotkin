@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ilyakokotkin
 
+- 🚀 Here you can find my learning and side projects
+
 - 📫 You can reach me on ilya.kokotkin@outlook.com 
 
 <!---
